@@ -22,7 +22,7 @@ Um calculador de média escolar anual feito para calcular a média final dos alu
 
 ## 📁 Acesso ao projeto
 
-Você pode acessar o código fonte do projeto inicial ou baixá-lo
+Você pode [acessar o código fonte do projeto inicial](https://github.com/WataNegreirosMonteiro/calculador-de-media) ou [baixá-lo](https://github.com/WataNegreirosMonteiro/calculador-de-media/archive/refs/heads/main.zip)
 
 ## 🛠️ Abrir e rodar o projeto
 
