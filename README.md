@@ -3,6 +3,8 @@
 ![Badge versão](http://img.shields.io/static/v1?label=VERSÃO&message=%201.0&color=GREEN&style=for-the-badge)
 
 Um calculador de média escolar anual feito para calcular a média final dos alunos de nível médio do Instituto Federal de Rondônia.
+[Clique aqui para acessar o projeto em funcionamento.](https://watanegreirosmonteiro.github.io/calculador-de-media/)
+
 
 ## Índice 
 * [Funcionalidades e Demonstração da Aplicação](#hammer-funcionalidades-do-projeto)
