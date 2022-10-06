@@ -1,3 +1,41 @@
 # Calculador de média escolar anual
 ![calculador de média](https://user-images.githubusercontent.com/90472705/194309553-50d50766-0ae0-43b1-953f-95358509f771.png)
 ![Badge versão](http://img.shields.io/static/v1?label=VERSÃO&message=%201.0&color=GREEN&style=for-the-badge)
+
+Um calculador de média escolar anual feito para calcular a média final dos alunos de nível médio do Instituto Federal de Rondônia.
+
+## Índice 
+* [Descrição do Projeto](#descrição-do-projeto)
+* [Status do Projeto](#status-do-Projeto)
+* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
+* [Acesso ao Projeto](#acesso-ao-projeto)
+* [Tecnologias utilizadas](#tecnologias-utilizadas)
+* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
+* [Licença](#licença)
+* [Conclusão](#conclusão)
+
+## :hammer: Funcionalidades do projeto
+
+- `Funcionalidade 1`: Calcular escolar média final anual
+- `Funcionalidade 2`: Acessar o site do SUAP
+- `Funcionalidade 3`: Acessar o site do AVA
+
+## 📁 Acesso ao projeto
+
+Você pode acessar o código fonte do projeto inicial ou baixá-lo
+
+## 🛠️ Abrir e rodar o projeto
+
+Após abrir o projeto, você pode iniciá-lo com o IDE de sua preferência, que quando executado, irá abrir o navegador com o projeto funcionando.
+
+## ⚙️ Técnicas e tecnologias utilizadas
+
+- ``JavaScript``
+- ``HTML``
+- ``CSS``
+- ``Replit IDE``
+
+## Autor
+
+| [<img src="https://avatars.githubusercontent.com/u/90472705?v=4" width=115><br><sub>Wata Negreiros Monteiro</sub>](https://github.com/WataNegreirosMonteiro) |  
+| :---: | 
