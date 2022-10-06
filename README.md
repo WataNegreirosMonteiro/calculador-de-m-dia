@@ -5,14 +5,10 @@
 Um calculador de média escolar anual feito para calcular a média final dos alunos de nível médio do Instituto Federal de Rondônia.
 
 ## Índice 
-* [Descrição do Projeto](#descrição-do-projeto)
-* [Status do Projeto](#status-do-Projeto)
-* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
-* [Acesso ao Projeto](#acesso-ao-projeto)
-* [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
-* [Licença](#licença)
-* [Conclusão](#conclusão)
+* [Funcionalidades e Demonstração da Aplicação](#hammer-funcionalidades-do-projeto)
+* [Acesso ao Projeto](#-acesso-ao-projeto)
+* [Abrir e rodar o projeto](#%EF%B8%8F-abrir-e-rodar-o-projeto)
+* [Tecnologias utilizadas](#%EF%B8%8F-técnicas-e-tecnologias-utilizadas)
 
 ## :hammer: Funcionalidades do projeto
 
