@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" type="imagem/x-icon" href="css/img/Logo-TI.png">
+    <link rel="stylesheet" href="css/sty-idex.css">
+    <title>Media</title>
+</head>
+
+<body>
+    <div class="container">
+
+        <div class="form-image">
+            <img id="logo-ti" src="css/img/Logo-TI.png">
+            <img src="css/img/undraw_education_f8ru.svg">
+        </div>
+
+        <div class="form">
+            <div class="options-button">
+                <div class="ava-button">
+                    <button a class="decoration-button" onclick="window.location.href = 'https://virtual.ifro.edu.br/portovelhocalama/'">Ava</button>
+                </div>
+                <div class="inicio-button">
+                    <button class="decoration-button" onclick="window.location.href = 'html/home.html'">Inicio</button>
+                </div>  
+            </div>
+          
+            <form action="#">
+                <div class="form-header">
+                    <div class="title">
+                        <h1 id="resultado">Media final:</h1>
+                    </div>
+                </div>
+
+                <div class="input-group">
+                    <div class="input-box">
+                        <label for="nota01">1° Bimestre</label>
+                        <input id="nota01" type="number" placeholder="Insira aqui..." required>
+                    </div>
+
+                    <div class="input-box">
+                        <label for="nota02">2° Bimestre</label>
+                        <input id="nota02" type="number" placeholder="Insira aqui..." required>
+                    </div>
+
+                    <div class="input-box">
+                        <label for="nota03">3° Bimestre</label>
+                        <input id="nota03" type="number" placeholder="Insira aqui..." required>
+                    </div>
+
+                    <div class="input-box">
+                        <label for="nota04">4° Bimestre</label>
+                        <input id="nota04" type="number" placeholder="Insira aqui..." required>
+                    </div>
+                </div>
+                <div class="continue-button">
+                    <button onclick="Calcular_Nota()">Calcular</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <script src="js/logica.js"></script>
+</body>
+</html>
